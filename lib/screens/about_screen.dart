@@ -137,10 +137,10 @@ class AboutScreen extends StatelessWidget {
                             _ContactRow(
                               icon: Icons.email_rounded,
                               label: 'Email',
-                              value: 'jeremysantiago@gmail.com',
+                              value: 'yeremishr151@gmail.com',
                               color: const Color(0xFFEA4335),
-                              onTap: () => _launchUrl('mailto:jeremysantiago@gmail.com'),
-                              onLongPress: () => _copyToClipboard(context, 'jeremysantiago@gmail.com', 'Email'),
+                              onTap: () => _launchUrl('mailto:yeremishr151@gmail.com'),
+                              onLongPress: () => _copyToClipboard(context, 'yeremishr151@gmail.com', 'Email'),
                             ),
                             const _Divider(),
 
