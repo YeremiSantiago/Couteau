@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛠️ Tarea 6</h1>
+  <h1>🛠️ Couteau </h1>
   <p>Una aplicación móvil multifuncional (multi-herramienta) con un diseño moderno en Glassmorphism.</p>
   
   <p>
