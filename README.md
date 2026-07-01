@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛠️ Tarea 6</h1>
+  <h1>🛠️ Couteau </h1>
   <p>Una aplicación móvil multifuncional (multi-herramienta) con un diseño moderno en Glassmorphism.</p>
   
   <p>
@@ -103,6 +103,4 @@ Estudiante del Instituto Tecnológico de Las Américas (ITLA)
 
 ---
 
-<div align="center">
-  <p><i>Desarrollado como parte del curso impartido por el <b>Prof. Couteau</b>.</i></p>
-</div>
+
