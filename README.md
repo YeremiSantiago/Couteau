@@ -103,6 +103,4 @@ Estudiante del Instituto Tecnológico de Las Américas (ITLA)
 
 ---
 
-<div align="center">
-  <p><i>Desarrollado como parte del curso impartido por el <b>Prof. Couteau</b>.</i></p>
-</div>
+
